@@ -1,0 +1,4 @@
+# Extras that aren't on the school menu.
+# One food per line:  name | serving | calories | protein (g) | carbs (g) | fat (g)
+# Lines starting with # are ignored. Add your own below.
+garlic aioli | 1 tbsp | 95 | 0 | 1 | 10

@@ -1,0 +1,40 @@
+{
+  "_note": "Made-up sample shaped like the MealViewer API, for testing only. Not real Essex data.",
+  "menuSchedules": [{
+    "menuBlocks": [
+      {"blockName": "Breakfast", "cafeteriaLineList": {"data": [{"foodItemList": {"data": [
+        {"item_Id": 900, "item_Name": "Breakfast Burrito", "portionUnit": "each",
+         "nutritionals": [{"name": "Calories", "value": 290}, {"name": "Protein (g)", "value": 13},
+                          {"name": "Total Carbs (g)", "value": 30}, {"name": "Total Fat (g)", "value": 13}]}
+      ]}}]}},
+      {"blockName": "Lunch", "cafeteriaLineList": {"data": [
+        {"name": "Grill", "foodItemList": {"data": [
+          {"item_Id": 1, "item_Name": "LOCAL BURGER", "portionUnit": "each",
+           "nutritionals": [{"name": "Calories", "value": 0}, {"name": "Protein (g)", "value": 0},
+                            {"name": "Total Carbs (g)", "value": 0}, {"name": "Total Fat (g)", "value": 0}]},
+          {"item_Id": 2, "item_Name": "Cheeseburger on Bun", "portionUnit": "1 each",
+           "nutritionals": [{"name": "Calories", "value": 380}, {"name": "Protein (g)", "value": 22},
+                            {"name": "Total Carbs (g)", "value": 30}, {"name": "Total Fat (g)", "value": 19},
+                            {"name": "Sodium (mg)", "value": 690}]},
+          {"item_Id": 3, "item_Name": "Seasoned Fries", "portionUnit": "1/2 cup",
+           "nutritionals": [{"name": "Calories", "value": 160}, {"name": "Protein (g)", "value": 2},
+                            {"name": "Total Carbs (g)", "value": 22}, {"name": "Total Fat (g)", "value": 7}]}
+        ]}},
+        {"name": "Pasta", "foodItemList": {"data": [
+          {"item_Id": 4, "item_Name": "Penne Pasta", "portionUnit": "1 cup",
+           "nutritionals": [{"name": "Calories", "value": 200}, {"name": "Protein (g)", "value": 7},
+                            {"name": "Total Carbs (g)", "value": 41}, {"name": "Total Fat (g)", "value": 1}]},
+          {"item_Id": 5, "item_Name": "Marinara Sauce", "portionUnit": "1/2 cup",
+           "nutritionals": [{"name": "Calories", "value": 67}, {"name": "Protein (g)", "value": 2},
+                            {"name": "Total Carbs (g)", "value": 10}, {"name": "Total Fat (g)", "value": 34}]},
+          {"item_Id": 2, "item_Name": "Cheeseburger on Bun", "portionUnit": "1 each",
+           "nutritionals": [{"name": "Calories", "value": 380}, {"name": "Protein (g)", "value": 22},
+                            {"name": "Total Carbs (g)", "value": 30}, {"name": "Total Fat (g)", "value": 19}]},
+          {"item_Id": 6, "item_Name": "Fat Free Milk", "portionUnit": "8 fl oz",
+           "nutritionals": [{"name": "Calories", "value": "90"}, {"name": "Protein (g)", "value": "8"},
+                            {"name": "Total Carbs (g)", "value": "13"}, {"name": "Total Fat (g)", "value": "0"}]}
+        ]}}
+      ]}}
+    ]
+  }]
+}
